@@ -1,5 +1,4 @@
-# ice ·
-智能UI控制器
+# ice ·智能UI控制器
 The Intelligent Controller makes User Interface Easier.
 
 ## 语音控制
